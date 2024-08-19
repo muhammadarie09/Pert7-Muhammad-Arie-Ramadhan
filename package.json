@@ -1,0 +1,22 @@
+{
+  "name": "pert7-muhammad-arie-ramadhan",
+  "version": "1.0.0",
+  "description": "Pert 7 Bootcamp QA Engineer By Digital Skola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.7.3",
+    "mochawesome": "^7.1.3",
+    "supertest": "^7.0.0"
+  },
+  "dependencies": {
+    "camelcase": "^8.0.0",
+    "chai-json-schema": "^1.5.1"
+  }
+}
